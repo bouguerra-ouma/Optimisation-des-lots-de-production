@@ -19,3 +19,6 @@ Ensuite, les **antériorités et chaînons** sont utilisés pour optimiser l’o
 - Excel / CSV pour données
 - Matplotlib / Seaborn pour visualisation
 - VS Code ou Jupyter pour le développement
+  
+## NB!!!
+Dans ce projet, la méthode des antériorités et des chaînons doit être appliquée sur chaque îlot individuellement, et non pas sur l’ensemble de la gamme de production. Cela permet d’optimiser localement les séquences et flux de chaque îlot, en respectant les contraintes spécifiques à chaque regroupement de machines, et d’améliorer la performance globale de la ligne.
